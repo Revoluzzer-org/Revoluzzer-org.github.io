@@ -2,4 +2,4 @@
 layout: default
 ---
 
-Demnächst
+REVOLUtionäres Zentrum Zur Erreichung von Rechtstaatlichkeit
