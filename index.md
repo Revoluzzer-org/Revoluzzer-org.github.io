@@ -3,4 +3,4 @@ layout: default
 ---
 
 **REVOLU**tionäres **Z**entrum **Z**ur **E**rreichung von **R**echtstaatlichkeit
-TWITTER: [@REVOLUZZER_ORG](https://twitter.com/revoluzzer_org)
+TWITTER: @REVOLUZZER_ORG
