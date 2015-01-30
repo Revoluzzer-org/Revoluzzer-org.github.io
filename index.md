@@ -6,4 +6,4 @@ layout: default
 * Gegen Antisemitismus, Faschismus und Rassismus
 * Für Frieden und Gerechtigkeit aller Menschen
 
-
+TWITTER: @REVOLUZZER_ORG
