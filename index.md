@@ -2,4 +2,4 @@
 layout: default
 ---
 
-REVOLUtionäres Zentrum Zur Erreichung von Rechtstaatlichkeit
+**REVOLU**tionäres **Z**entrum **Z**ur **E**rreichung von **R**echtstaatlichkeit
